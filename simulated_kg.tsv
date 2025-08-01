@@ -1,0 +1,100 @@
+metformin	associated_with	heart failure
+hyperlipidemia	indicates	cancer
+chronic kidney disease	indicates	dementia
+heart failure	manages	chronic kidney disease
+chronic kidney disease	causes	renal failure
+dementia	associated_with	hepatitis
+hepatitis	causes	renal failure
+hepatitis	treats	heart failure
+diabetes	causes	diabetes
+diabetes	manages	hepatitis
+hyperlipidemia	treats	hyperlipidemia
+chronic kidney disease	causes	dementia
+hepatitis	manages	hypertension
+stroke	associated_with	anemia
+dementia	associated_with	aspirin
+COPD	associated_with	renal failure
+seizures	manages	hyperlipidemia
+heart failure	associated_with	hypertension
+blood glucose	causes	anemia
+hepatitis	associated_with	COPD
+anemia	causes	renal failure
+chronic kidney disease	associated_with	cardiac arrest
+acetaminophen	indicates	diabetes
+infection	causes	stroke
+hepatitis	associated_with	stroke
+anemia	indicates	renal failure
+cancer	manages	stroke
+stroke	indicates	acetaminophen
+cardiac arrest	causes	aspirin
+metformin	associated_with	COPD
+cardiac arrest	indicates	renal failure
+cancer	indicates	hyperlipidemia
+diabetes	treats	seizures
+COPD	manages	pneumonia
+COPD	indicates	hypertension
+renal failure	treats	hepatitis
+acetaminophen	manages	aspirin
+acetaminophen	manages	stroke
+renal failure	manages	blood glucose
+aspirin	indicates	COPD
+diabetes	treats	heart failure
+heart failure	manages	heart failure
+cancer	indicates	seizures
+heart failure	treats	anemia
+cardiac arrest	indicates	pneumonia
+infection	treats	pneumonia
+pneumonia	treats	hypertension
+renal failure	treats	chronic kidney disease
+hyperlipidemia	causes	hypertension
+cancer	manages	heart failure
+heart failure	manages	pneumonia
+diabetes	indicates	heart failure
+infection	treats	COPD
+dementia	indicates	hypertension
+blood glucose	causes	cardiac arrest
+anemia	manages	aspirin
+cardiac arrest	associated_with	aspirin
+renal failure	causes	hyperlipidemia
+pneumonia	associated_with	infection
+aspirin	manages	chronic kidney disease
+aspirin	manages	aspirin
+dementia	associated_with	stroke
+stroke	associated_with	hepatitis
+COPD	associated_with	chronic kidney disease
+COPD	associated_with	pneumonia
+COPD	associated_with	cardiac arrest
+cancer	indicates	blood glucose
+pneumonia	indicates	metformin
+heart failure	associated_with	cardiac arrest
+renal failure	indicates	cardiac arrest
+renal failure	treats	hepatitis
+hepatitis	manages	COPD
+hyperlipidemia	treats	stroke
+heart failure	causes	aspirin
+diabetes	associated_with	cancer
+pneumonia	manages	chronic kidney disease
+stroke	treats	pneumonia
+seizures	associated_with	heart failure
+hepatitis	treats	infection
+pneumonia	manages	renal failure
+stroke	treats	stroke
+infection	treats	COPD
+acetaminophen	treats	acetaminophen
+hyperlipidemia	treats	hypertension
+hypertension	indicates	hypertension
+acetaminophen	associated_with	hyperlipidemia
+infection	associated_with	metformin
+renal failure	associated_with	aspirin
+seizures	manages	hypertension
+hepatitis	treats	heart failure
+hypertension	indicates	chronic kidney disease
+pneumonia	associated_with	pneumonia
+infection	causes	seizures
+hepatitis	indicates	aspirin
+aspirin	indicates	heart failure
+hyperlipidemia	associated_with	infection
+cancer	treats	stroke
+blood glucose	indicates	renal failure
+hypertension	manages	infection
+stroke	treats	chronic kidney disease

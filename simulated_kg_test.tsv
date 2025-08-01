@@ -1,0 +1,20 @@
+hyperlipidemia	treats	hypertension
+dementia	indicates	hypertension
+renal failure	treats	hepatitis
+infection	treats	pneumonia
+cardiac arrest	indicates	pneumonia
+aspirin	indicates	COPD
+acetaminophen	indicates	diabetes
+stroke	treats	stroke
+hyperlipidemia	treats	hyperlipidemia
+metformin	associated_with	heart failure
+blood glucose	causes	anemia
+cardiac arrest	indicates	renal failure
+heart failure	causes	aspirin
+COPD	manages	pneumonia
+hypertension	indicates	chronic kidney disease
+chronic kidney disease	causes	renal failure
+stroke	treats	pneumonia
+seizures	associated_with	heart failure
+hepatitis	manages	hypertension
+cancer	indicates	hyperlipidemia
